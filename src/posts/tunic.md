@@ -1,0 +1,9 @@
+---
+title: Tunic
+layout: 'base.njk'
+---
+
+Tunic captures two things well: exploring cryptic games like the original
+Legend of Zelda or Milon's Secret Castle; and playing games before you
+could really read. I think it owes something to Fez too, but I have not
+played it. The combat is very Souls-like. I strongly recommend it. ★★★★☆
