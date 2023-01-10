@@ -1,5 +1,6 @@
 ---
 title: Devil May Cry 5
+date_reviewed: 'December 31 2022'
 layout: 'base.njk'
 ---
 

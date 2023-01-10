@@ -1,5 +1,6 @@
 ---
 title: Ion Fury
+date_reviewed: 'September 29 2022'
 layout: 'base.njk'
 ---
 

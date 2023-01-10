@@ -1,5 +1,6 @@
 ---
 title: Mario vs. Donkey Kong
+date_reviewed: 'January 2 2023'
 layout: 'base.njk'
 ---
 

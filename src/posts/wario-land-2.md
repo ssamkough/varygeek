@@ -1,5 +1,6 @@
 ---
 title: Wario Land 2
+date_reviewed: 'January 9 2023'
 layout: "base.njk"
 ---
 

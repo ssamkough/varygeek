@@ -15,9 +15,7 @@
   <body>
     <header>
         <h1>{{ title }}</h1>
-        {% if date %}
-        <time><em>{{ date }}<em></time>
-        {% endif %}
+        <time><em>{{ date_reviewed }}</em></time>
     </header>
     <main>
         {{ content | safe }}

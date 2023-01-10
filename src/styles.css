@@ -5,6 +5,7 @@
 
 body {
   padding: 20px;
+  font-size: 20px;
 }
 
 header {
@@ -16,6 +17,14 @@ main {
   flex-direction: column;
   gap: 10px;
   max-width: 500px;
-  font-size: 24px;
   line-height: 1.8em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: revert;
 }

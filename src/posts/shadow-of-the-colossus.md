@@ -1,5 +1,6 @@
 ---
 title: Shadow of the Colossus
+date_reviewed: 'December 26 2022'
 layout: 'base.njk'
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Super Mario Land 2: 6 Golden Coins'
+date_reviewed: 'December 21 2022'
 layout: 'base.njk'
 ---
 
