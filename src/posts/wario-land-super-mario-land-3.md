@@ -1,5 +1,5 @@
 ---
-title: Wario Land: Super Mario Land 3
+title: 'Wario Land: Super Mario Land 3'
 layout: "base.njk"
 ---
 
