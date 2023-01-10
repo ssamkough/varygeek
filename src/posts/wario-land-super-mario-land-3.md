@@ -1,5 +1,6 @@
 ---
 title: 'Wario Land: Super Mario Land 3'
+date: 'January 9 2023'
 layout: "base.njk"
 ---
 
