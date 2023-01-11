@@ -3,8 +3,8 @@ title: VaryGeek
 layout: 'base.njk'
 ---
 
-{% for post in collections.posts %}
+{% for game in collections.games %}
 
-[{{ post.data.title }}]({{ post.url }})
+[{{ game.data.title }}]({{ game.url }})
 
 {% endfor %}
