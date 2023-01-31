@@ -4,7 +4,7 @@ date_reviewed: 'January 30 2023'
 layout: "base.njk"
 ---
 
-With Nioh, Team Ninja tried to synthesize From Software's Souls-like genre with Diablo-like action-RPGs.
+With __Nioh__, Team Ninja tried to synthesize From Software's Souls-like genre with Diablo-like action-RPGs.
 
 My first playthrough a while back was frustratingly hard. I was able to finish the main campaign, clutching the Souls-like formula. This playthrough, I actually tried to engage with every system, and I found it too easy and exploitable. I also experienced three bugs that made the world disappear or obscured the camera.
 
