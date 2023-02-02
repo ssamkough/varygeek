@@ -4,7 +4,7 @@
   "description": "varygeek gamer site",
   "main": "index.js",
   "scripts": {
-    "start": "eleventy --serve",
+    "start": "eleventy --serve --formats=md,png",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
