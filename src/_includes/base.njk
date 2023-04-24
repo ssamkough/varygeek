@@ -18,13 +18,15 @@
   </head>
   <body>
     <header>
-        <h1>{{ title }}</h1>
-        {% if date_reviewed %}
-          <time><em>{{ date_reviewed }}</em></time>
-        {% endif %}
+      <h1>{{ title }}</h1>
+      {% if date_reviewed %}
+        <time>
+          <em>{{ date_reviewed }}</em>
+        </time>
+      {% endif %}
     </header>
     <main>
-        {{ content | safe }}
+      {{ content | safe }}
     </main>
   </body>
 </html>
