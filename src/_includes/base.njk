@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>VaryGeek</title>
+    {% if date_reviewed $}
+      <title>VaryGeek | {{ title }}</title>
+    {% else %}
+      <title>{{ title }}</title>
+    {% endif %}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" content="VaryGeek">
@@ -15,7 +19,9 @@
   <body>
     <header>
         <h1>{{ title }}</h1>
-        <time><em>{{ date_reviewed }}</em></time>
+        {% if date_reviewed $}
+          <time><em>{{ date_reviewed }}</em></time>
+        {% endif %}
     </header>
     <main>
         {{ content | safe }}
