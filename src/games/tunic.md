@@ -1,5 +1,6 @@
 ---
 title: Tunic
+date: '2022-08-28'
 date_reviewed: 'August 28 2022'
 layout: 'base.njk'
 ---

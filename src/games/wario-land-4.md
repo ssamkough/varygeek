@@ -1,5 +1,6 @@
 ---
 title: Wario Land 4
+date: '2023-01-09'
 date_reviewed: 'January 9 2023'
 layout: "base.njk"
 ---

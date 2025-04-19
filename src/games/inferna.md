@@ -1,5 +1,6 @@
 ---
 title: Inferna
+date: '2023-04-24'
 date_reviewed: 'April 24 2023'
 layout: "base.njk"
 ---

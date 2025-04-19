@@ -1,5 +1,6 @@
 ---
 title: HUMANITY
+date: '2025-04-17'
 date_reviewed: 'April 17 2025'
 layout: 'base.njk'
 ---

@@ -1,6 +1,7 @@
 ---
 title: Environmental Station Alpha
-date_reviewed: 'Feburyar 18 2023'
+date: '2023-02-18'
+date_reviewed: 'February 18 2023'
 layout: "base.njk"
 ---
 

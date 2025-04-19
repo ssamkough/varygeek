@@ -1,5 +1,6 @@
 ---
 title: Hypnagogia
+date: '2023-02-24'
 date_reviewed: 'February 24 2023'
 layout: "base.njk"
 ---

@@ -1,5 +1,6 @@
 ---
 title: Thomas Was Alone
+date: '2025-02-24'
 date_reviewed: 'February 24 2025'
 layout: 'base.njk'
 ---

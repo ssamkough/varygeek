@@ -1,5 +1,6 @@
 ---
 title: Exo One
+date: '2025-03-05'
 date_reviewed: 'March 5 2025'
 layout: 'base.njk'
 ---

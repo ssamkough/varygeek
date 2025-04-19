@@ -1,5 +1,6 @@
 ---
 title: Super Mario Land
+date: '2022-12-20'
 date_reviewed: 'December 20 2022'
 layout: 'base.njk'
 ---

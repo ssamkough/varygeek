@@ -1,5 +1,6 @@
 ---
 title: Bonkers
+date: '2023-04-20'
 date_reviewed: 'April 20 2023'
 layout: "base.njk"
 ---

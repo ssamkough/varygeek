@@ -1,5 +1,6 @@
 ---
 title: "Crash Bandicoot: Warped"
+date: '2023-02-04'
 date_reviewed: 'February 4 2023'
 layout: 'base.njk'
 ---

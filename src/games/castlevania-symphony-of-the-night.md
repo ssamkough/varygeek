@@ -1,5 +1,6 @@
 ---
 title: "Castlevania: Symphony of the Night"
+date: '2023-03-29'
 date_reviewed: 'March 29 2023'
 layout: "base.njk"
 ---

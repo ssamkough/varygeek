@@ -1,5 +1,6 @@
 ---
 title: Beeny
+date: '2022-10-24'
 date_reviewed: 'October 24 2022'
 layout: "base.njk"
 ---

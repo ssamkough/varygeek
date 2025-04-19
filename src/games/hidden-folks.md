@@ -1,5 +1,6 @@
 ---
 title: Hidden Folks
+date: '2023-01-15'
 date_reviewed: 'January 15 2023'
 layout: 'base.njk'
 ---

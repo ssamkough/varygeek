@@ -1,5 +1,6 @@
 ---
 title: Nioh
+date: '2023-01-30'
 date_reviewed: 'January 30 2023'
 layout: "base.njk"
 ---

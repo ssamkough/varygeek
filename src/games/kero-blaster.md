@@ -1,5 +1,6 @@
 ---
 title: Kero Blaster
+date: '2023-02-15'
 date_reviewed: 'February 15 2023'
 layout: "base.njk"
 ---

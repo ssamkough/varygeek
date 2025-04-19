@@ -1,5 +1,6 @@
 ---
 title: Tinykin
+date: '2023-02-08'
 date_reviewed: 'February 8 2023'
 layout: "base.njk"
 ---

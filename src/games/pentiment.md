@@ -1,5 +1,6 @@
 ---
-title: HUMANITY
+title: Pentiment
+date: '2025-03-24'
 date_reviewed: 'March 24 2025'
 layout: 'base.njk'
 ---

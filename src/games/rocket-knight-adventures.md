@@ -1,5 +1,6 @@
 ---
 title: Rocket Knight Adventures
+date: '2023-03-16'
 date_reviewed: 'March 16 2023'
 layout: "base.njk"
 ---

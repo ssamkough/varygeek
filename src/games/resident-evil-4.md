@@ -1,5 +1,6 @@
 ---
 title: Resident Evil 4
+date: '2023-04-03'
 date_reviewed: 'April 3 2023'
 layout: "base.njk"
 ---

@@ -1,5 +1,6 @@
 ---
 title: Crash Bandicoot
+date: '2023-01-16'
 date_reviewed: 'January 16 2023'
 layout: 'base.njk'
 ---
