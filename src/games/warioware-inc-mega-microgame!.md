@@ -1,5 +1,5 @@
 ---
-title: 'WarioWare, Inc.: Mega Microgame$!'
+title: 'WarioWare, Inc.: Mega Microgame!'
 date: '2023-01-12'
 date_reviewed: 'January 12 2023'
 layout: "base.njk"
